@@ -8,6 +8,7 @@ www-data@victim:~$ wget https://raw.githubusercontent.com/d4t4s3c/Linux-Monitor-
 www-data@victim:~$ chmod +x lmnp.sh
 www-data@victim:~$ ./lmnp.sh
 ```
+
 successful results:
 ```bash
 /bin/bash /directory/evil.sh
