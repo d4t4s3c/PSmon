@@ -9,7 +9,9 @@ www-data@victim:~$ chmod +x lmnp.sh
 www-data@victim:~$ ./lmnp.sh
 ```
 
+```bash
 successful results:
 /bin/bash /directory/evil.sh
 /bin/bash /directory/evil.py
 /bin/bash -c php /directory/evil.php
+```
