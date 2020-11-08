@@ -1,6 +1,6 @@
 # Linux Monitor New Process (LMNP)
 
-Bash script for monitoring new processes & cron tasks
+Bash script to monitor new processes and cron tasks that run at regular intervals of time.
 
 ```bash
 www-data@victim:~$ cd /tmp
@@ -10,7 +10,7 @@ www-data@victim:~$ ./lmnp.sh
 ```
 
 successful results:
-```bash
+```
 /bin/bash /directory/evil.sh
 /bin/bash /directory/evil.py
 /bin/bash -c php /directory/evil.php
