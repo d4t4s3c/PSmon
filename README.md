@@ -10,8 +10,6 @@ www-data@victim:~$ ./lmnp.sh
 ```
 
 successful results:
-```
 /bin/bash /directory/evil.sh
 /bin/bash /directory/evil.py
 /bin/bash -c php /directory/evil.php
-```
