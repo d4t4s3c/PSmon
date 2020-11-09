@@ -1,4 +1,4 @@
-# Linux Monitor New Process (LMNP)
+# LMNP
 
 Bash script to monitor new processes and cron tasks that run at regular intervals of time.
 
