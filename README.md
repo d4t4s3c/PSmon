@@ -9,9 +9,7 @@ www-data@victim:~$ cd /tmp
 www-data@victim:~$ wget https://raw.githubusercontent.com/d4t4s3c/PSmon/main/PSmon.sh
 www-data@victim:~$ chmod +x PSmon.sh
 www-data@victim:~$ ./PSmon.sh
-
-successful results:
-/bin/bash /directory/evil.sh
-/bin/bash /directory/evil.py
-/bin/bash -c php /directory/evil.php
 ```
+**Screenshot**
+
+![](/screenshot/00001.png)
