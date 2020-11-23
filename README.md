@@ -1,6 +1,6 @@
 # PSmon
 
-Bash script to monitor new processes and cron tasks that run at regular intervals of time.
+**Bash script to monitor new processes and cron tasks that run at regular intervals of time.**
 
 (Very useful tool to escalate privileges in Red Team operations)
 
