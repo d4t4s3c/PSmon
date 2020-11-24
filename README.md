@@ -12,4 +12,4 @@ www-data@victim:~$ ./PSmon.sh
 ```
 **Screenshot**
 
-![](/1.png)
+![](/01.png)
